@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DisplayingBoard/static/css/main.a5093896.chunk.css",
+    "main.js": "/DisplayingBoard/static/js/main.c688a12d.chunk.js",
+    "main.js.map": "/DisplayingBoard/static/js/main.c688a12d.chunk.js.map",
+    "runtime-main.js": "/DisplayingBoard/static/js/runtime-main.a430d1b5.js",
+    "runtime-main.js.map": "/DisplayingBoard/static/js/runtime-main.a430d1b5.js.map",
+    "static/css/2.770bc649.chunk.css": "/DisplayingBoard/static/css/2.770bc649.chunk.css",
+    "static/js/2.00394bc5.chunk.js": "/DisplayingBoard/static/js/2.00394bc5.chunk.js",
+    "static/js/2.00394bc5.chunk.js.map": "/DisplayingBoard/static/js/2.00394bc5.chunk.js.map",
+    "static/js/3.cffa847c.chunk.js": "/DisplayingBoard/static/js/3.cffa847c.chunk.js",
+    "static/js/3.cffa847c.chunk.js.map": "/DisplayingBoard/static/js/3.cffa847c.chunk.js.map",
+    "index.html": "/DisplayingBoard/index.html",
+    "static/css/2.770bc649.chunk.css.map": "/DisplayingBoard/static/css/2.770bc649.chunk.css.map",
+    "static/css/main.a5093896.chunk.css.map": "/DisplayingBoard/static/css/main.a5093896.chunk.css.map",
+    "static/js/2.00394bc5.chunk.js.LICENSE.txt": "/DisplayingBoard/static/js/2.00394bc5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DisplayingBoard/static/media/Rosapic.5007de58.jpg",
+    "static/media/mdb.css": "/DisplayingBoard/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/logo.6ce24c58.svg": "/DisplayingBoard/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a430d1b5.js",
+    "static/css/2.770bc649.chunk.css",
+    "static/js/2.00394bc5.chunk.js",
+    "static/css/main.a5093896.chunk.css",
+    "static/js/main.c688a12d.chunk.js"
+  ]
+}
